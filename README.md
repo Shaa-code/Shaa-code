@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sin+Seung+Yun&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Sin+Seung+Yun&fontAlign=70&fontAlignY=40&color=gradient)
 
 - 👋 Hi, I’m @Shaa-code
 - 👀 I’m interested in ...
