@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @Shaa-code
 - 👀 I’m interested in ... Self-Development
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ...Who Interested in Self-Development
 - 📫 How to reach me ...
 
 <!---
