@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Shaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Shaa-code)](https://solved.ac/rtp3386/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rtp3386)](https://solved.ac/rtp3386/)
