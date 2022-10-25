@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Sin+Seung+Yun&fontAlign=70&fontAlignY=40&color=gradient)
 
-![Shaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)   
+![Shaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaa-code&show_icons=true&theme=dark)   
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rtp3386)](https://solved.ac/rtp3386/)
 
